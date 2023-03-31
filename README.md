@@ -1,5 +1,7 @@
 # Person-Detection
-Person Detection and Tracking\
+Person Detection and Tracking
+Person Detection and Tracking is the project using which we can detect and identify the people entering the store along with the confidence percentage of each person. It also tells the number of people present inside the store and total number of people who left the store. 
+It is a Computer Vision Project and topics included and YOLO and SSD.
 The Darknet Detection is the file which displays the number of people entering and leaving the store.\
 Input and output count is displayed on the frames with the Person ID.\
 This sort amd darknet files are also present which are imported in the Darkent Detection.\
